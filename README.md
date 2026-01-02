@@ -92,6 +92,6 @@ Koşum zamanı testi:
 \
 `git clone https://github.com/ismailhakkituran/dbms-lab-nosql.git` komutu ile şablonu çalışma dizininize kopyalayıp, `idea .` IDE kullanarak proje şeklinde açabilirsiniz.
 \
-**(\*)** Deney kapsamında verilen bu çalışmayı hayal gücünüzle geliştirip, CV' nize eklemeniz tavsiye edilir.
+**(\*)** Deney kapsamında verilen bu çalışmayı hayal gücünüzle geliştirip, CV' nize eklemeniz tavsiye edilir. (Yerel makinanıza MongoDB Server kurmayı unutmayınız.)
 
 
